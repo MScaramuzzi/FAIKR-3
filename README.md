@@ -1,3 +1,4 @@
-# FAIKR-3
+# FAIKR-3 project Giuseppe Morgese - Marco Scaramuzzi
 
-to add for cv
+* Spoti_scraper.ipynb: This is the file that scrapes the data directly from Spotify API
+* 
